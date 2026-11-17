@@ -211,3 +211,10 @@ I confirm that all newly generated results, evaluations, and models documented i
 | **Classifier Configuration** | `LogisticRegression(C=1.0, max_iter=1000, random_state=42)` |
 | **Script Filename** | `icdfa_ip_triage_pipeline.py` |
 | **Execution Timestamp (WAT)** | `2026-11-17 14:30:00 WAT` |
+
+## Video Evidence
+
+This video is the evidence for this assignment. It shows the AI-assisted IP evidence identification and model evaluation process.
+
+[Click here to watch the Video Evidence](https://drive.google.com/file/d/1YaHxaDJhzZ_sab7ZatdXvsIuWJxWxZ1T/view?usp=drivesdk)
+
